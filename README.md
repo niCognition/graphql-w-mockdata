@@ -1,0 +1,1 @@
+# Basic Graphql server/api for learning purposes
