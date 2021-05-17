@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/niCognition/graphql-stuff.git"
+    "url": "git+https://github.com/niCognition/graphql-w-mockdata.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/niCognition/graphql-stuff/issues"
+    "url": "https://github.com/niCognition/graphql-w-mockdata/issues"
   },
-  "homepage": "https://github.com/niCognition/graphql-stuff#readme",
+  "homepage": "https://github.com/niCognition/graphql-w-mockdata#readme",
   "description": ""
 }
